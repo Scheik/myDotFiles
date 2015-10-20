@@ -22,3 +22,5 @@ set listchars=tab:▸\ ,eol:¬
 
 syntax enable
 colorscheme wombat256
+
+set mouse=a
