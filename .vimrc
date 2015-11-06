@@ -9,6 +9,7 @@ Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-repeat'
 Plugin 'scrooloose/nerdtree'
 Plugin 'Raimondi/delimitMate'
+Plugin 'taketwo/vim-ros'
 
 call vundle#end()
 filetype plugin indent on
