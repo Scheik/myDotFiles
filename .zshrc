@@ -20,4 +20,5 @@ source $ZSH/oh-my-zsh.sh
 source /opt/ros/indigo/setup.zsh
 export ROSLAUNCH_SSH_UNKNOWN=1
 source $HOME/ROS-Workspace/devel/setup.zsh
+source $HOME/ROS-Gazebo/devel/setup.zsh
 
